@@ -1,0 +1,2 @@
+# stereomich
+stereo photography pipeline
